@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.version     = "0.1"
   s.authors     = ["phillyonrails", "izzm"]
   s.email       = ["vladislav.izoria@gmail.com"]
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Acts As Breadcrumbs for rails}
+  s.description = %q{Cache nested_set path to database field}
   s.rdoc_options = ["--charset=UTF-8"]
 
   s.files = [
